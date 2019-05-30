@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\gagan\source\repos\project1\project1\source.cpp(181): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\gagan\source\repos\project1\project1\source.cpp(182): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\gagan\source\repos\project1\project1\source.cpp(183): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\gagan\source\repos\project1\project1\source.cpp(184): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Project1.vcxproj -> C:\Users\Gagan\source\repos\Project1\Debug\Project1.exe
